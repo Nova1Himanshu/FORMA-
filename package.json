@@ -1,0 +1,13 @@
+{
+  "name": "forma-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FORMA mobile browser project",
+  "scripts": {
+    "build": "node src/build.cjs",
+    "test": "node tests/drive-check.cjs && node tests/audio-check.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
