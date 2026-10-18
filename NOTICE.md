@@ -14,3 +14,7 @@ Modifications: disconnected surfaces separated into selectable mesh pieces, posi
 This is an independent project with no Ferrari affiliation. The model is not factory CAD. Engine geometry and exact manufacturer control behavior are not included; audio and driving behavior are illustrative.
 
 No separate reuse license has been chosen for the custom viewer code.
+
+## Separate Engine Learning Lab
+
+engine-lab/engine.html is V8 Engine by Harry Vellios (heliosv24), MIT licensed. Full notice: engine-lab/LICENSE. Source: https://github.com/heliosv24/v8-engine at revision 5475fc778d75b1a14286827c795d82bb0da2103b. FORMA adds a separate wrapper and attribution page. This generic engine is not the Ferrari 458 engine.

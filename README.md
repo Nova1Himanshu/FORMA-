@@ -12,6 +12,7 @@ Explore a Ferrari 458 artist model in 3D, disassemble its connected mesh pieces,
 - Remove and refit pieces, play automatic disassembly, and adjust the exploded view.
 - Circular showroom platform and an arcade driving mode with keyboard and touch controls.
 - Driver console with ignition, RPM display, accelerator, brake, lights, horn, and synthesized RPM audio.
+- Separate [Engine Learning Lab](https://nova1himanshu.github.io/FORMA-/engine-lab/) with an MIT-licensed generic V8, animated internals, cutaway and exploded views. This is not the Ferrari engine.
 
 ## Run locally
 
@@ -40,3 +41,5 @@ The website contains its model data and requires no download at runtime. It need
 Ferrari 458 artist model by vicent091036, CC BY 4.0, distributed with the three.js car example. See NOTICE.md for attribution and modification notes. This is an independent viewer with no Ferrari affiliation.
 
 The 1,030 connected mesh pieces include 24 modeled fastener pieces; they are not verified manufacturing parts. This is an artist model, not Ferrari factory CAD. Original engine CAD is not included. Driving, horn, RPM audio, and lighting are illustrative simulations. No separate reuse license has been chosen for the custom viewer code.
+
+Engine Learning Lab: Harry Vellios / heliosv24, MIT License; see engine-lab/LICENSE and engine-lab/credits.html. The lab loads Three.js modules from unpkg.com and needs internet access.
