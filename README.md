@@ -2,6 +2,8 @@
 
 Explore a Ferrari 458 artist model in 3D, disassemble its connected mesh pieces, and try an arcade driving demonstration.
 
+**[Open the live website](https://nova1himanshu.github.io/FORMA-/)**
+
 ![Ferrari viewer](previews/ferrari-preview.png)
 
 ## Features
